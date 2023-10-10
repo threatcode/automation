@@ -16,7 +16,7 @@ setDiscordMessage(COMMIT_AUTHOR, COMMIT_ID, COMMIT_MESSAGE, GITHUB_REPO);
  * @param {string} author The name of the commit author
  * @param {string} id The commit ID
  * @param {string} commitMsg A full commit message
- * @param {string} repo The full GitHub repo name to link to, e.g. `'withastro/starlight'`
+ * @param {string} repo The full GitHub repo name to link to, e.g. `'threatcode/starlight'`
  */
 function setDiscordMessage(author, id, commitMsg, repo) {
   const commitMessage = commitMsg
