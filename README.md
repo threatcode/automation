@@ -1,4 +1,4 @@
-# Astro Automation Tools
+# ThreatCode Automation Tools
 
 This repository contains GitHub Action workflows that are shared across repos in the `threatcode` GitHub org.
 
